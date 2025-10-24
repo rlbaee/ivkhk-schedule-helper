@@ -1,0 +1,782 @@
+[
+  {
+    "groupUuid": "650e1876-dba4-42a1-993e-479c5c40d61c",
+    "groupCode": "JHAK24"
+  },
+  {
+    "groupUuid": "de3e98e8-a9fe-4ce5-ab56-a560af2d0708",
+    "groupCode": "JHAKE24"
+  },
+  {
+    "groupUuid": "0fd6b087-80aa-4abf-bfd4-fd72f78e045f",
+    "groupCode": "JHAKE25"
+  },
+  {
+    "groupUuid": "b0769672-06eb-43fe-9c63-19909fb28f4e",
+    "groupCode": "JHAPE25"
+  },
+  {
+    "groupUuid": "5ca365d8-28a0-4763-909d-4addc07e9ca6",
+    "groupCode": "JHKA24"
+  },
+  {
+    "groupUuid": "fa45e7f8-17fb-4f62-ab3d-7b3d6a82d95e",
+    "groupCode": "JHKAE24"
+  },
+  {
+    "groupUuid": "a297606f-7b5f-433f-9fa0-390d55486516",
+    "groupCode": "JHKVa24"
+  },
+  {
+    "groupUuid": "0b681f61-875b-4ad3-99d1-a64d35c91c84",
+    "groupCode": "JHKVa25"
+  },
+  {
+    "groupUuid": "bfd198d8-12c1-4777-ad37-db15d1539e51",
+    "groupCode": "JHPPp24"
+  },
+  {
+    "groupUuid": "56670734-2170-40e6-8683-0ba89c383760",
+    "groupCode": "JKAKEs25"
+  },
+  {
+    "groupUuid": "35ab7d59-f80f-48e4-96df-900802642fe5",
+    "groupCode": "JKHAEs25"
+  },
+  {
+    "groupUuid": "5fe71a84-8922-4071-9b87-64b363636451",
+    "groupCode": "JKISEs26"
+  },
+  {
+    "groupUuid": "4f544d1c-cdb4-4b92-842e-afb1ee9f4d65",
+    "groupCode": "JKISp25"
+  },
+  {
+    "groupUuid": "a4ec3d63-5541-4ecc-a90e-dac02b5975d9",
+    "groupCode": "JKITEs25"
+  },
+  {
+    "groupUuid": "a2215a3f-16ee-4462-9139-36934c3fb798",
+    "groupCode": "JKITp23"
+  },
+  {
+    "groupUuid": "6ed970b0-da69-45e2-b3bf-696398baa67f",
+    "groupCode": "JKITp24"
+  },
+  {
+    "groupUuid": "1c862e18-eaf9-4c66-ac59-a10cbc30baee",
+    "groupCode": "JKJUE24"
+  },
+  {
+    "groupUuid": "59a63cd2-c022-475b-ba99-763c1aef49b2",
+    "groupCode": "JKJUE25"
+  },
+  {
+    "groupUuid": "078f5c70-aed2-4dfd-a35b-9ed1ff80b32b",
+    "groupCode": "JKKVs25"
+  },
+  {
+    "groupUuid": "23f34cc3-1a85-4f05-b3f4-af558ca8d21e",
+    "groupCode": "JKMHp23"
+  },
+  {
+    "groupUuid": "d54a2d97-ae96-45ab-9b08-9a422db8fa57",
+    "groupCode": "JKMHp24"
+  },
+  {
+    "groupUuid": "4d444020-60e0-4a40-a1ad-6dfbe4925e18",
+    "groupCode": "JKPPs25"
+  },
+  {
+    "groupUuid": "783631e6-291b-4bcb-8c68-2a818d040ca6",
+    "groupCode": "JKRPEs25"
+  },
+  {
+    "groupUuid": "1fc9fe4c-2cb6-4be9-9aef-fca8285d9920",
+    "groupCode": "JKTV24"
+  },
+  {
+    "groupUuid": "8a4b89dd-955d-402e-86f7-232165cec03c",
+    "groupCode": "JKVEs23"
+  },
+  {
+    "groupUuid": "cc639443-190f-4640-aae9-24cbe1b427b6",
+    "groupCode": "JKVEs25"
+  },
+  {
+    "groupUuid": "3a9a5d15-b8e1-41df-9060-3048f94bf196",
+    "groupCode": "JKVEs26"
+  },
+  {
+    "groupUuid": "9e7560d3-02a3-4168-ac8e-5c5d3e0f3ea2",
+    "groupCode": "JPAS22"
+  },
+  {
+    "groupUuid": "eaa73baa-6177-4b77-ba47-f81443288735",
+    "groupCode": "JPAS23"
+  },
+  {
+    "groupUuid": "d33b23c3-a675-4bdb-82f7-fb42c9b8c48e",
+    "groupCode": "JPAS24"
+  },
+  {
+    "groupUuid": "f78b934c-9391-4815-b4aa-6c5fee8c7671",
+    "groupCode": "JPASE25"
+  },
+  {
+    "groupUuid": "2f365665-8a20-4784-9e7d-60b5f442089d",
+    "groupCode": "JPATE25"
+  },
+  {
+    "groupUuid": "5fb769ff-31a2-46b9-833f-54bdc4379851",
+    "groupCode": "JPATp23"
+  },
+  {
+    "groupUuid": "4e86a4a4-9e75-4fd3-81a9-4cdda97256b8",
+    "groupCode": "JPATp24"
+  },
+  {
+    "groupUuid": "1bcaae13-3e02-413b-a46c-6ce37c5e6170",
+    "groupCode": "JPBKE25a"
+  },
+  {
+    "groupUuid": "d8a02c7b-7c43-4146-8c24-983ecac6ad45",
+    "groupCode": "JPCPp25"
+  },
+  {
+    "groupUuid": "c4793511-a513-4073-a08e-94d722b6bcdf",
+    "groupCode": "JPEL22"
+  },
+  {
+    "groupUuid": "ec5a86f5-407a-4d5e-8893-227cd188dc96",
+    "groupCode": "JPEL23"
+  },
+  {
+    "groupUuid": "dcd6cb54-6d62-4a13-a880-ca1591488606",
+    "groupCode": "JPEL24"
+  },
+  {
+    "groupUuid": "f76d2df6-bbf8-422b-a98c-8a8a6df1f354",
+    "groupCode": "JPELE24"
+  },
+  {
+    "groupUuid": "c297791d-7d1b-4a25-a840-3aab03e04050",
+    "groupCode": "JPELE25"
+  },
+  {
+    "groupUuid": "d8d37d5e-8cb3-4595-9a3f-e525a1ac7e28",
+    "groupCode": "JPELp23"
+  },
+  {
+    "groupUuid": "e7e37c19-09aa-43a3-bc1b-ff7785e136e2",
+    "groupCode": "JPELp25"
+  },
+  {
+    "groupUuid": "d0335ac5-5dde-49b1-9883-2f15857e3d07",
+    "groupCode": "JPELp25b"
+  },
+  {
+    "groupUuid": "9dfd00aa-90c0-480f-9b72-dcff2b8aa9c6",
+    "groupCode": "JPELt24"
+  },
+  {
+    "groupUuid": "95b7aa2a-92a9-4d6b-99a5-4794dd011e8b",
+    "groupCode": "JPEP22"
+  },
+  {
+    "groupUuid": "53ef71ac-18da-4962-870d-8a9ff726fbb1",
+    "groupCode": "JPEP23"
+  },
+  {
+    "groupUuid": "ac68ac7f-f43d-4acb-91b1-8938363fad42",
+    "groupCode": "JPEP24"
+  },
+  {
+    "groupUuid": "8e80c4d1-9d6b-4f01-b60b-a097d5518784",
+    "groupCode": "JPEPE24"
+  },
+  {
+    "groupUuid": "ab0d579f-0681-49de-997f-ebb472426d53",
+    "groupCode": "JPEPE25"
+  },
+  {
+    "groupUuid": "ea7dc8ff-27a1-4866-9ba1-f11854a80c4f",
+    "groupCode": "JPEPe25"
+  },
+  {
+    "groupUuid": "8af1a55c-e48f-4e0f-bd9e-856cd52b7d32",
+    "groupCode": "JPIH25"
+  },
+  {
+    "groupUuid": "e30b2964-aa7c-4738-a131-3242449af4aa",
+    "groupCode": "JPIHE25"
+  },
+  {
+    "groupUuid": "3c2943c8-5aab-41bf-ac6f-e6dab71e3067",
+    "groupCode": "JPIT22"
+  },
+  {
+    "groupUuid": "f86acd00-4d43-4293-9ab6-33a381238956",
+    "groupCode": "JPIT23"
+  },
+  {
+    "groupUuid": "90adf8a9-197e-472c-8003-53b846751120",
+    "groupCode": "JPIT24"
+  },
+  {
+    "groupUuid": "245b3e26-7d4d-496e-bd8e-dc9015c0513d",
+    "groupCode": "JPIT25"
+  },
+  {
+    "groupUuid": "0e2529f1-52c3-49be-8bfe-f5af4381c43a",
+    "groupCode": "JPITE25"
+  },
+  {
+    "groupUuid": "c8ea8005-7605-4374-bee2-1559794a4f47",
+    "groupCode": "JPJUE22"
+  },
+  {
+    "groupUuid": "adf80772-e39e-4e6f-80fd-f5e226d683ba",
+    "groupCode": "JPJUE23"
+  },
+  {
+    "groupUuid": "a8e468b1-6f04-4b4c-8e17-d44e775fcd03",
+    "groupCode": "JPJUE24"
+  },
+  {
+    "groupUuid": "2dc445bd-4af7-48a0-9c15-0a3e9b2e6e85",
+    "groupCode": "JPKK23"
+  },
+  {
+    "groupUuid": "cb61790a-4798-4f52-980b-81456ce9ba1e",
+    "groupCode": "JPKKE25"
+  },
+  {
+    "groupUuid": "4d09b432-1314-4d47-bbf7-e9828fbaba13",
+    "groupCode": "JPKKs24"
+  },
+  {
+    "groupUuid": "45b5e4f3-0e1c-4df5-9e32-5fa4b6bc420c",
+    "groupCode": "JPKLp24"
+  },
+  {
+    "groupUuid": "e2dc989e-7849-4ba3-9b2e-6de0ae8a6bcf",
+    "groupCode": "JPKLs25"
+  },
+  {
+    "groupUuid": "ddbdf973-500d-4ab5-bb0b-83a25f6dc7df",
+    "groupCode": "JPKM22"
+  },
+  {
+    "groupUuid": "c1b4fb03-d35c-48e3-9f4d-eb6ac753ca87",
+    "groupCode": "JPKM23"
+  },
+  {
+    "groupUuid": "dc396747-4009-4883-8c8f-9f4604b69a1e",
+    "groupCode": "JPKM24"
+  },
+  {
+    "groupUuid": "17eeffc1-6c29-431b-a39d-93e90c72b831",
+    "groupCode": "JPKNEs24"
+  },
+  {
+    "groupUuid": "7cd86322-5bf5-436e-9b0a-0a27b94d945d",
+    "groupCode": "JPKNEs25"
+  },
+  {
+    "groupUuid": "6b72cc65-1386-4754-932e-0f00435e585a",
+    "groupCode": "JPKO23"
+  },
+  {
+    "groupUuid": "9fef3d56-5727-4e08-9dff-1d90d091daff",
+    "groupCode": "JPKO24"
+  },
+  {
+    "groupUuid": "3ea4ae78-d3d7-4a0b-9998-fbaf8ef93fa3",
+    "groupCode": "JPKO25"
+  },
+  {
+    "groupUuid": "1ceab0b7-b159-479b-b451-6ad66aee2495",
+    "groupCode": "JPKOE24"
+  },
+  {
+    "groupUuid": "f3c4c05b-8859-4aba-ae66-df281233458c",
+    "groupCode": "JPKOE25"
+  },
+  {
+    "groupUuid": "4c2e5fb2-32fb-46e4-930d-7fa5c6f7c8b4",
+    "groupCode": "JPKRp25"
+  },
+  {
+    "groupUuid": "6e0cf46c-231d-4385-a79c-9b8a89ae24de",
+    "groupCode": "JPKTEs24"
+  },
+  {
+    "groupUuid": "3320ade4-2cd6-4f46-8002-60f7c6f01d62",
+    "groupCode": "JPKTs25"
+  },
+  {
+    "groupUuid": "4df41996-7fe9-474e-b208-6c3454aa660d",
+    "groupCode": "JPLB22"
+  },
+  {
+    "groupUuid": "d9c0af11-9b23-4ea8-8841-cf4f595eb462",
+    "groupCode": "JPLB23"
+  },
+  {
+    "groupUuid": "b10a05f3-0a10-4148-938a-7abe7dcef483",
+    "groupCode": "JPLB24"
+  },
+  {
+    "groupUuid": "0381502a-3617-443f-84b9-b2eaec00a862",
+    "groupCode": "JPLKs25"
+  },
+  {
+    "groupUuid": "dcfa49ba-e6d5-459e-9904-517e62c7c0bc",
+    "groupCode": "JPLT22"
+  },
+  {
+    "groupUuid": "534c215a-f2b3-4358-b75a-951f593c704b",
+    "groupCode": "JPLT23"
+  },
+  {
+    "groupUuid": "b6d5fe6c-0604-45b7-9205-2ad2e580c8a6",
+    "groupCode": "JPLT24"
+  },
+  {
+    "groupUuid": "26f7ef55-65a5-4d62-be79-11dba8da298c",
+    "groupCode": "JPLV25"
+  },
+  {
+    "groupUuid": "2aee1d1c-8f02-4bcf-996d-59dfb2065764",
+    "groupCode": "JPLVE25"
+  },
+  {
+    "groupUuid": "ecc03bca-9e91-46a1-9665-1dc985536f62",
+    "groupCode": "JPMH25"
+  },
+  {
+    "groupUuid": "efe179d6-9811-4910-92a0-7547b3c45060",
+    "groupCode": "JPMSp25"
+  },
+  {
+    "groupUuid": "246162ee-a777-49b6-ac4e-ffae01975f63",
+    "groupCode": "JPMUEp25"
+  },
+  {
+    "groupUuid": "8c35ab3d-d755-4c49-bc5e-bf4398caa226",
+    "groupCode": "JPPG24"
+  },
+  {
+    "groupUuid": "41a2f5ca-dfdc-48af-b833-f1b4755e38d4",
+    "groupCode": "JPPK22"
+  },
+  {
+    "groupUuid": "4ee621d4-7b02-44c2-b5ef-fb3e6494368f",
+    "groupCode": "JPPK23"
+  },
+  {
+    "groupUuid": "79ff5bc6-d76e-49f3-95ef-5cdbf35425b7",
+    "groupCode": "JPPK24"
+  },
+  {
+    "groupUuid": "ccd682f4-4046-4142-a420-963f2d6f703c",
+    "groupCode": "JPPKE24"
+  },
+  {
+    "groupUuid": "99291244-b5fe-4e34-af4d-45740321efd6",
+    "groupCode": "JPPLp25"
+  },
+  {
+    "groupUuid": "660e5ee8-55c7-40ba-a284-b633cf1c8e36",
+    "groupCode": "JPRAp24"
+  },
+  {
+    "groupUuid": "490869ac-54f6-48e4-ad5c-0a3ad4c261a1",
+    "groupCode": "JPSTEt25"
+  },
+  {
+    "groupUuid": "692b8852-90db-4088-ab3d-5d9ff249f34e",
+    "groupCode": "JPTO25"
+  },
+  {
+    "groupUuid": "1d1fed33-c7ec-4025-9a46-9313e9e6d305",
+    "groupCode": "JPTOE25"
+  },
+  {
+    "groupUuid": "ff5fb14c-2c78-4251-8903-b4dce639d407",
+    "groupCode": "JPTTE22"
+  },
+  {
+    "groupUuid": "3f9e0bc7-b906-495c-9ad8-bde3916773d3",
+    "groupCode": "JPTTE25"
+  },
+  {
+    "groupUuid": "38aef24d-5614-4f68-bf50-11761e54a6b2",
+    "groupCode": "JPTV21"
+  },
+  {
+    "groupUuid": "8274230c-4844-4f9d-b7be-7ca00e42692c",
+    "groupCode": "JPTV22"
+  },
+  {
+    "groupUuid": "a01d68d7-7bff-497b-b1ee-4f04e258d9fb",
+    "groupCode": "JPTV23"
+  },
+  {
+    "groupUuid": "8141c14b-5529-4652-9991-16e5d39e6b46",
+    "groupCode": "JPTV24"
+  },
+  {
+    "groupUuid": "9d81cb36-6732-4420-b6ce-5a9bbad870e3",
+    "groupCode": "JPTV25"
+  },
+  {
+    "groupUuid": "237e1bc8-5f95-4704-aba8-f3123891d347",
+    "groupCode": "JPTVE25"
+  },
+  {
+    "groupUuid": "4ed6ceab-c834-4fc1-9227-88c05f7c11c0",
+    "groupCode": "NHAK24"
+  },
+  {
+    "groupUuid": "e575de23-5bf3-481b-985a-271ef3ec7747",
+    "groupCode": "NHAKE25"
+  },
+  {
+    "groupUuid": "20d017cd-9eb2-4859-98b3-eed94f1e69b5",
+    "groupCode": "NHAP24"
+  },
+  {
+    "groupUuid": "eb13f0b2-8c1a-43ef-ae15-7cadd16d42c4",
+    "groupCode": "NHAP25"
+  },
+  {
+    "groupUuid": "d835c062-f52d-4dd5-8428-39fcb2aee079",
+    "groupCode": "NHKA23"
+  },
+  {
+    "groupUuid": "d4bf634a-4f06-42af-b913-c28c92ea754e",
+    "groupCode": "NHKV24"
+  },
+  {
+    "groupUuid": "87a18b5d-3d95-4221-a491-5543e570d290",
+    "groupCode": "NHKVa24"
+  },
+  {
+    "groupUuid": "4ebbbd17-4114-46f9-ba17-6b3a30e58987",
+    "groupCode": "NHKVa25"
+  },
+  {
+    "groupUuid": "32f658e4-be7e-4731-9d4d-69226a70a11c",
+    "groupCode": "NHPA25"
+  },
+  {
+    "groupUuid": "785d0686-31f1-4fa6-ac5c-71219de5ed18",
+    "groupCode": "NHPT24"
+  },
+  {
+    "groupUuid": "bbc3846f-01e0-47c7-ac6b-8232886a4978",
+    "groupCode": "NHPTt24"
+  },
+  {
+    "groupUuid": "ec985901-a90c-4b07-82b3-82abf68356a9",
+    "groupCode": "NKAKs23"
+  },
+  {
+    "groupUuid": "4e576f8d-76c7-4afa-b4e7-0b5aaf842f42",
+    "groupCode": "NKAKs24"
+  },
+  {
+    "groupUuid": "c7c2ea1e-c16b-4422-9306-a57631793966",
+    "groupCode": "NKITp24"
+  },
+  {
+    "groupUuid": "7de0df3a-6f0d-48d8-bde2-15a0412b1b44",
+    "groupCode": "NKKGEs26"
+  },
+  {
+    "groupUuid": "b9f232e9-71bb-435b-862d-cd30eb18f499",
+    "groupCode": "NKKGp25"
+  },
+  {
+    "groupUuid": "2909b21b-96cf-4f2b-9ea8-ad55e2678f1a",
+    "groupCode": "NKMHp23"
+  },
+  {
+    "groupUuid": "5b456a51-cae3-421f-9261-8c82f1d8b9e6",
+    "groupCode": "NKMM24"
+  },
+  {
+    "groupUuid": "b96833ad-7858-4642-a72d-42270f2ae928",
+    "groupCode": "NKMMEs25"
+  },
+  {
+    "groupUuid": "da2155f5-5544-4784-9778-4d1ade9292f6",
+    "groupCode": "NKMMs24"
+  },
+  {
+    "groupUuid": "229fd8b1-11e8-4fbb-8618-7b3f518b77c3",
+    "groupCode": "NKRKEs25"
+  },
+  {
+    "groupUuid": "6d301f20-e9da-4c09-8582-9e115aba1d43",
+    "groupCode": "NKRPs24"
+  },
+  {
+    "groupUuid": "1d8a294b-4cbc-44e2-a56d-b0e0a7c28b67",
+    "groupCode": "NKRPs25"
+  },
+  {
+    "groupUuid": "4a9e77a8-d630-4c56-a649-2f0f644140fd",
+    "groupCode": "NKTKEs24"
+  },
+  {
+    "groupUuid": "9e37197c-5461-4d26-a949-307308ddb62b",
+    "groupCode": "NKTKEs25"
+  },
+  {
+    "groupUuid": "1a6abcae-12d9-4591-aa3d-65091c8c5b43",
+    "groupCode": "NPAT22"
+  },
+  {
+    "groupUuid": "57e37d22-7cbe-40d0-b3bc-1741f70b031a",
+    "groupCode": "NPAT23"
+  },
+  {
+    "groupUuid": "0b59f1da-7602-4680-b026-08c084151040",
+    "groupCode": "NPAT24"
+  },
+  {
+    "groupUuid": "9e2e3a28-c041-4a12-9ace-80538e922539",
+    "groupCode": "NPAT25"
+  },
+  {
+    "groupUuid": "60429ebd-7eec-44db-9e72-a205f86823ce",
+    "groupCode": "NPATp23"
+  },
+  {
+    "groupUuid": "180eb997-779f-488a-b4ad-ee9cae014619",
+    "groupCode": "NPELp23"
+  },
+  {
+    "groupUuid": "1508a52c-2afa-4107-8dd9-45260b932c19",
+    "groupCode": "NPELp24"
+  },
+  {
+    "groupUuid": "1a83325d-db8f-4c45-8fcd-6cd06dc1a1f8",
+    "groupCode": "NPEV22"
+  },
+  {
+    "groupUuid": "a15b9069-1e66-4664-ad42-ff6fcc065e44",
+    "groupCode": "NPEV23"
+  },
+  {
+    "groupUuid": "be3b5933-e455-4dd7-81dc-6f061efbfafa",
+    "groupCode": "NPEV24"
+  },
+  {
+    "groupUuid": "65003582-1769-4ffe-8143-7cff905982df",
+    "groupCode": "NPEV25"
+  },
+  {
+    "groupUuid": "4468819b-d9c5-4db8-8c42-09e00c49ff6e",
+    "groupCode": "NPKK23"
+  },
+  {
+    "groupUuid": "2fd26e6b-7fcc-468b-a691-8eeb4702b2bb",
+    "groupCode": "NPKK24"
+  },
+  {
+    "groupUuid": "9ee42a1d-d7cd-4931-8038-7cf5b7e309ec",
+    "groupCode": "NPKKE25"
+  },
+  {
+    "groupUuid": "23e3ec96-bff4-4f75-860c-7389053bc9c5",
+    "groupCode": "NPKL24"
+  },
+  {
+    "groupUuid": "eeb4bfed-c3dc-406f-8394-54c60000ba12",
+    "groupCode": "NPKM24"
+  },
+  {
+    "groupUuid": "45825123-fde8-4acd-a10a-6c94f53ae633",
+    "groupCode": "NPKMa22"
+  },
+  {
+    "groupUuid": "1cb23815-bd41-425c-a49f-e301a1e9ba66",
+    "groupCode": "NPKMa23"
+  },
+  {
+    "groupUuid": "cd2013e0-ac9c-4d70-a9f7-0b9cb24051ea",
+    "groupCode": "NPKMb22"
+  },
+  {
+    "groupUuid": "bca04711-f5c2-4605-b31e-6a9f04af968e",
+    "groupCode": "NPKMb23"
+  },
+  {
+    "groupUuid": "81e11ccb-332d-4b2c-839d-90595044419d",
+    "groupCode": "NPKN24"
+  },
+  {
+    "groupUuid": "438b846d-6221-4216-84f8-2324a9443f5d",
+    "groupCode": "NPKO22"
+  },
+  {
+    "groupUuid": "c9cec002-8097-4a63-a84f-f243ce0c5d4c",
+    "groupCode": "NPKO23"
+  },
+  {
+    "groupUuid": "170e80ec-8e99-479f-9e33-c8166cc66bec",
+    "groupCode": "NPKO24"
+  },
+  {
+    "groupUuid": "912ad9c4-b235-4efd-9b71-bfafbe8ba915",
+    "groupCode": "NPKO25"
+  },
+  {
+    "groupUuid": "68acaecc-3f40-452d-9cea-a224e34da81c",
+    "groupCode": "NPKOE25"
+  },
+  {
+    "groupUuid": "d64aa6b8-7f09-4c4c-a804-0e4707a38ba9",
+    "groupCode": "NPKVp24"
+  },
+  {
+    "groupUuid": "d9f22e05-c8aa-41df-8850-6ecef61c49fa",
+    "groupCode": "NPLTs24"
+  },
+  {
+    "groupUuid": "4f96ee8f-2e85-4829-a8b0-0cf062875e40",
+    "groupCode": "NPLTs25"
+  },
+  {
+    "groupUuid": "ba90c868-37cc-40e8-94fe-4d4daff68c5f",
+    "groupCode": "NPMH22"
+  },
+  {
+    "groupUuid": "8e8fccdd-1938-4a79-9812-35c26a95eb8b",
+    "groupCode": "NPMH23"
+  },
+  {
+    "groupUuid": "eca8630a-9685-4589-b437-09f7f09bb8f5",
+    "groupCode": "NPMH24"
+  },
+  {
+    "groupUuid": "67e67362-55dd-4f23-a9f6-178c6dc53717",
+    "groupCode": "NPMM23"
+  },
+  {
+    "groupUuid": "1a07d2a7-f511-45a9-aaab-2bfbed92bb29",
+    "groupCode": "NPMM24"
+  },
+  {
+    "groupUuid": "629f203b-45b6-4d4f-9a0b-1e83b8af5144",
+    "groupCode": "NPMM25"
+  },
+  {
+    "groupUuid": "7918a999-adbf-4174-bdaa-0b298bf77d97",
+    "groupCode": "NPMME25"
+  },
+  {
+    "groupUuid": "a9ec94cd-06fd-49e7-a5dd-9cee14e5c688",
+    "groupCode": "NPRA24"
+  },
+  {
+    "groupUuid": "83feea07-84e7-4d0d-a01d-e57bbb8f11f5",
+    "groupCode": "NPRÕt24"
+  },
+  {
+    "groupUuid": "2d707c07-08a3-403b-a12f-f52069da5dda",
+    "groupCode": "NPTK24"
+  },
+  {
+    "groupUuid": "369adfc4-43f9-4c8d-b629-16be38789020",
+    "groupCode": "NPTV23"
+  },
+  {
+    "groupUuid": "c189879b-1b98-462c-9826-c629bfb9a2ac",
+    "groupCode": "NPTV24"
+  },
+  {
+    "groupUuid": "82dcf500-822b-4d25-9116-42104b7c92fb",
+    "groupCode": "NPTV25"
+  },
+  {
+    "groupUuid": "922a3e8a-e265-4ccf-8feb-d5a69f27aa70",
+    "groupCode": "SHMKp25"
+  },
+  {
+    "groupUuid": "ca905641-81bb-4c9e-9746-f5cac0bf1d2f",
+    "groupCode": "SPKTEs25"
+  },
+  {
+    "groupUuid": "a9f5a1c2-c86c-4fbe-95f7-5b92918bd1bb",
+    "groupCode": "SPKTp24"
+  },
+  {
+    "groupUuid": "4e594a37-5efa-4149-946f-41e660591bfe",
+    "groupCode": "SPKVp25"
+  },
+  {
+    "groupUuid": "245e022e-3f08-4260-961b-24ff39d23886",
+    "groupCode": "SPLT22"
+  },
+  {
+    "groupUuid": "d6ddf7ec-0a99-4990-8b04-617e10eb20a7",
+    "groupCode": "SPLT23"
+  },
+  {
+    "groupUuid": "d4d7adc2-2858-465c-9225-2deb3a35423c",
+    "groupCode": "SPLT24"
+  },
+  {
+    "groupUuid": "9ca2f9b1-2d15-49f8-8e3d-1ae15d41ae2c",
+    "groupCode": "SPLT25"
+  },
+  {
+    "groupUuid": "c832386e-b03f-4e9e-8ed9-842f3d45a76b",
+    "groupCode": "SPMF25"
+  },
+  {
+    "groupUuid": "a681d521-8ff6-4fda-921d-fcd290379f49",
+    "groupCode": "SPMT25a"
+  },
+  {
+    "groupUuid": "403acff0-babd-4f17-8d53-cb853a257aee",
+    "groupCode": "SPMT25b"
+  },
+  {
+    "groupUuid": "1a78fc50-3f34-45b2-aa41-6618d40f8b7b",
+    "groupCode": "SPTOp24"
+  },
+  {
+    "groupUuid": "fd788c53-8fba-41c3-9129-ce2b0ce95dd9",
+    "groupCode": "SPTOs25"
+  },
+  {
+    "groupUuid": "22c4a490-987e-44bf-8aa7-b1caf45d7e7c",
+    "groupCode": "SPTV22"
+  },
+  {
+    "groupUuid": "49974915-0df0-4c04-ba24-76c724a220ce",
+    "groupCode": "SPVLp24"
+  },
+  {
+    "groupUuid": "d7520276-1967-4dd5-8301-3e1ce84ee115",
+    "groupCode": "SPVLp25"
+  },
+  {
+    "groupUuid": "a178879b-6989-43a9-980a-81c679aa2bfe",
+    "groupCode": "SPVLp25b"
+  },
+  {
+    "groupUuid": "10bdf9d9-d6f3-4785-9c58-6c1b76882df5",
+    "groupCode": "VALIK"
+  },
+  {
+    "groupUuid": "94038068-056a-4d5d-bdeb-4e9fdedbcb04",
+    "groupCode": "VHKV25"
+  }
+]
