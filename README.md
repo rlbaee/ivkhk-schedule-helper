@@ -1,34 +1,25 @@
 # IVKHK Schedule Helper
 
-**IVKHK Schedule Helper** is a Progressive Web App (PWA) that allows students and teachers to view and manage their schedules conveniently. The app looks like a native mobile app but runs entirely in the browser.  
+**IVKHK Schedule Helper** — это прогрессивное веб-приложение (PWA), которое позволяет студентам и преподавателям удобно просматривать своё расписание. Приложение выглядит и работает как нативное мобильное, но полностью запускается в браузере.
 
 ---
 
-## **Features**
+## **Функционал**
 
-- **Login** via email/password, Google, or Apple ID  
-- **Favorites**: save your preferred groups, teachers, or rooms  
-- **Offline mode**: access schedules even without an internet connection  
-- **Notifications**: receive reminders 5 minutes before lessons start  
-- **Schedule updates**: get notified when schedules change  
-- **Minimal & modern UI**: designed for clarity and ease of use  
+- **Избранное:** сохраняйте любимые группы, преподавателей или аудитории  
+- **Оффлайн-режим:** доступ к расписанию без подключения к интернету  
+- **Уведомления:** напоминания за 5 минут до начала занятий  
+- **Минималистичный и современный интерфейс:** простой и понятный дизайн  
 
 ---
 
-## **Stack**
+## **Технологический стек**
 
-- **Frontend**  
-  - Next.js (with SSR) – PWA support  
-  - React + TailwindCSS + [shadcn/ui](https://ui.shadcn.com/) – component library and styling  
+- **Фронтенд**  
+  - **Next.js (с SSR)** — поддержка PWA и серверный рендеринг  
+  - **React + TailwindCSS** — компонентный подход и стилизация интерфейса  
 
-- **Backend**  
-  - Supabase – authentication, database, realtime updates  
-  - PHP – fetches and parses schedule data from the school website  
+- **Бэкенд**  
+  - **PHP** — получение и парсинг данных расписания с сайта колледжа  
 
 ---
-
-## **Installation / Setup**
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ivkhk-schedule-helper.git
