@@ -3,14 +3,19 @@
 import Navbar from "@/app/components/Navbar";
 import Dashboard from "@/app/components/Dashboard";
 import Settings from "./components/Settings";
-import ScheduleBlock from "./components/ScheduleBlock";
-import ScheduleScreen from "./components/ScheduleScreen";
+import { useState } from "react";
 
 export default function Home() {
+  const [screen, setScreen] = useState<"dashboard" | "settings">("dashboard");
+
   return (
-    <main>
-      <ScheduleScreen />
-      <Navbar />
+    <main className="flex flex-col min-h-screen">
+      {/* Conditionally render screen */}
+      {screen === "dashboard" && <Dashboard />}
+      {screen === "settings" && <Settings />}
+
+      {/* Pass setScreen to Navbar */}
+      <Navbar setScreen={setScreen} />
     </main>
   );
 }

@@ -1,5 +1,9 @@
 "use client";
-
+import ScheduleScreen from "./ScheduleScreen";
 export default function Dashboard() {
-  return <section></section>;
+  return (
+    <section>
+      <ScheduleScreen />
+    </section>
+  );
 }
