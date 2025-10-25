@@ -10,11 +10,9 @@ export default function Home() {
 
   return (
     <main className="flex flex-col min-h-screen">
-      {/* Conditionally render screen */}
       {screen === "dashboard" && <Dashboard />}
       {screen === "settings" && <Settings />}
 
-      {/* Pass setScreen to Navbar */}
       <Navbar setScreen={setScreen} />
     </main>
   );

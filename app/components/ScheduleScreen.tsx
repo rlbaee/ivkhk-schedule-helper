@@ -3,22 +3,23 @@ import { useState, useEffect } from "react";
 import ScheduleBlock from "./ScheduleBlock";
 
 export default function ScheduleScreen() {
-  const [favourites, setFavourites] = useState<string[]>([]);
+  const [favouriteGroups, setFavouriteGroups] = useState<string[]>([]);
 
   useEffect(() => {
-    // wrap in setTimeout or just parse in effect without causing immediate re-render
-    const saved = localStorage.getItem("favourites");
-    if (saved) {
-      // setState asynchronously to avoid cascade
-      setTimeout(() => setFavourites(JSON.parse(saved)), 0);
+    const stored = localStorage.getItem("favouriteGroups");
+    if (stored) {
+      setTimeout(() => setFavouriteGroups(JSON.parse(stored)), 0);
     }
   }, []);
 
+  if (favouriteGroups.length === 0) {
+    return <p>No favourite groups selected.</p>;
+  }
+
   return (
-    <section>
-      {favourites.length === 0 && <p>No favourite groups selected.</p>}
-      {favourites.map((group) => (
-        <ScheduleBlock key={group} groupName={group} />
+    <section className="flex flex-col gap-3">
+      {favouriteGroups.map((group) => (
+        <ScheduleBlock key={group} groupCode={group} />
       ))}
     </section>
   );
